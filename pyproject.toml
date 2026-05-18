@@ -29,7 +29,7 @@ dependencies = [
     "accelerate>=1.13.0",
     "pandas",
     "numpy",
-    "scipy>=1.17.1",
+    "scipy",
     "tqdm>=4.67.3",
     "pyyaml>=6.0.3",
     "pydantic>=2.12.5",
